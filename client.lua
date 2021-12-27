@@ -1,0 +1,6 @@
+RegisterNetEvent("evsys:showNotif")
+AddEventHandler("evsys:showNotif", function(text) 
+    SetNotificationTextEntry('STRING')
+	AddTextComponentSubstringPlayerName(text)
+	DrawNotification(false, true)
+end)

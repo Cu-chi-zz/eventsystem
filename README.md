@@ -1,2 +1,3 @@
 # eventsystem
 Very basic script to make events.
+'cause weird people sell stuff like that...
